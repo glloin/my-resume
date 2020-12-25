@@ -68,11 +68,10 @@
 ![pda](http://106.55.174.130/images/pda.png)
 
 * Web 卷材数据管理页面
-<video src="http://106.55.174.130/images/coil_manager.mp4" controls="controls" ></video>
+![coil display](http://106.55.174.130/images/coil_manager.png)
 
 * 卷材现场电子看板视频
-<video src="http://106.55.174.130/images/coilDisplay.mp4" controls="controls" ></video>
-
+![coil manager](http://106.55.174.130/images/coilDisplay.png)
 
 * AspNetCore 注入冲压机PLC访问的后台服务
 ```
