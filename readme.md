@@ -69,9 +69,11 @@
 
 * Web 卷材数据管理页面
 ![coil display](http://106.55.174.130/images/coil_manager.png)
+<a href="http://106.55.174.130/images/coil_manager.mp4">视频演示</a>
 
 * 卷材现场电子看板视频
 ![coil manager](http://106.55.174.130/images/coilDisplay.png)
+<a href="http://106.55.174.130/images/coilDisplay.mp4">视频演示</a>
 
 * AspNetCore 注入冲压机PLC访问的后台服务
 ```
